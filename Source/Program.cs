@@ -13,7 +13,7 @@ const bool withStats = true;
 //     }
 // }
 
-var solution = SolutionRepository.GetSolutionByDay(7);
+var solution = SolutionRepository.GetSolutionByDay(8);
 solution.ConsoleDump(withStats);
 
 Console.ReadLine();
